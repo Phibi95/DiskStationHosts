@@ -1,0 +1,13 @@
+{
+"name": "shareplace",
+"hostprefix": "shareplace.org",
+"displayname": "Shareplace",
+"version": "0.1",
+"majorversion": "3",
+"minorversion": "2",
+"minfirmware": "1834",
+"authentication": "no",
+"module": "host.php",
+"class": "HostShareplace",
+"description": "Place to share love<3"
+}
